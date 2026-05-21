@@ -1,0 +1,15 @@
+{
+  "type": "news",
+  "slug": "crypto-com-integration-now-live",
+  "title": "Crypto.com Exchange integration is now live",
+  "date": "2026-05-20T16:30:00Z",
+  "updated": "2026-05-20T16:30:00Z",
+  "author": "Cryptool",
+  "excerpt_html": "<p>Connect a read-only Crypto.com API key to sync your trades automatically into Cryptool.</p>",
+  "content_html": "<p>You can now connect your Crypto.com Exchange account to Cryptool with a read-only API key, syncing trades automatically. See the <a href=\"/documents/crypto-com\">setup guide</a> for step-by-step instructions.</p>",
+  "hero_image": "",
+  "tags": [
+    "Integrations",
+    "Product"
+  ]
+}

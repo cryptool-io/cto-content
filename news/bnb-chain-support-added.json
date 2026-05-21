@@ -1,0 +1,15 @@
+{
+  "type": "news",
+  "slug": "bnb-chain-support-added",
+  "title": "BNB Chain support added to the platform",
+  "date": "2026-05-19T11:15:00Z",
+  "updated": "2026-05-19T11:15:00Z",
+  "author": "Cryptool",
+  "excerpt_html": "<p>Cryptool now tracks balances and positions on BNB Chain, alongside MultiversX and Ethereum.</p>",
+  "content_html": "<p>BNB Chain joins MultiversX and Ethereum as a supported network. Balances, positions, and pools on BNB Chain now appear in your unified dashboard.</p>",
+  "hero_image": "/assets/hero/Cryptool-Banner-scaled.jpg",
+  "tags": [
+    "Chains",
+    "Product"
+  ]
+}
