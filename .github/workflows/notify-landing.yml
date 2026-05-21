@@ -1,0 +1,37 @@
+# When a post is added/updated here, tell cto-landing to rebuild + deploy.
+# This keeps AMT's job to a single action: commit a post file to THIS repo.
+# AMT never talks to cto-landing — this workflow does, on AMT's behalf.
+#
+# Requires one repo secret on cto-content:
+#   LANDING_DISPATCH_TOKEN — a token (fine-grained PAT or GitHub App) that can
+#   send a repository_dispatch to cryptool-io/cto-landing. Until it's set, this
+#   workflow skips gracefully (no red failures).
+
+name: Notify landing to rebuild
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'blog/**'
+      - 'news/**'
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch content-updated to cto-landing
+        env:
+          TOKEN: ${{ secrets.LANDING_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "LANDING_DISPATCH_TOKEN not set — skipping. Add it to enable auto-deploy."
+            exit 0
+          fi
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/cryptool-io/cto-landing/dispatches \
+            -d '{"event_type":"content-updated"}'
+          echo "Dispatched content-updated to cto-landing."
