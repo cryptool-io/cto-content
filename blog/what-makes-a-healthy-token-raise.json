@@ -7,9 +7,11 @@
   "author": "Cryptool",
   "excerpt_html": "<p>Vesting, distribution, and transparent pool terms separate sustainable raises from the rest. A short field guide.</p>",
   "content_html": "<p>Not all raises are created equal. The mechanics around vesting and distribution often decide whether a project survives its first year.</p>\n\n<h2>Vesting and distribution</h2>\n<p>Clear, enforceable vesting schedules align contributors and the team. Cryptool's Raise module handles pool creation, vesting, and distribution end-to-end.</p>\n\n<h2>Transparency</h2>\n<p>Published pool terms and on-chain tracking build the trust a raise needs to succeed.</p>",
-  "hero_image": "",
+  "hero_image": "https://amt.cryptool.io/media/what-makes-a-healthy-token-raise-cover-1779444865895.jpg",
   "tags": [
     "Raise",
     "Education"
-  ]
+  ],
+  "cover": "https://amt.cryptool.io/media/what-makes-a-healthy-token-raise-cover-1779444865895.jpg",
+  "featured_image": "https://amt.cryptool.io/media/what-makes-a-healthy-token-raise-cover-1779444865895.jpg"
 }
