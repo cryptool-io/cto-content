@@ -7,9 +7,11 @@
   "author": "Cryptool",
   "excerpt_html": "<p>Cryptool now tracks balances and positions on BNB Chain, alongside MultiversX and Ethereum.</p>",
   "content_html": "<p>BNB Chain joins MultiversX and Ethereum as a supported network. Balances, positions, and pools on BNB Chain now appear in your unified dashboard.</p>",
-  "hero_image": "/assets/hero/Cryptool-Banner-scaled.jpg",
+  "hero_image": "https://amt.cryptool.io/media/bnb-chain-support-added-cover-1779444956416.jpg",
   "tags": [
     "Chains",
     "Product"
-  ]
+  ],
+  "cover": "https://amt.cryptool.io/media/bnb-chain-support-added-cover-1779444956416.jpg",
+  "featured_image": "https://amt.cryptool.io/media/bnb-chain-support-added-cover-1779444956416.jpg"
 }
