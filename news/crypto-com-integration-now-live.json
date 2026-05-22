@@ -7,9 +7,11 @@
   "author": "Cryptool",
   "excerpt_html": "<p>Connect a read-only Crypto.com API key to sync your trades automatically into Cryptool.</p>",
   "content_html": "<p>You can now connect your Crypto.com Exchange account to Cryptool with a read-only API key, syncing trades automatically. See the <a href=\"/documents/crypto-com\">setup guide</a> for step-by-step instructions.</p>",
-  "hero_image": "",
+  "hero_image": "https://amt.cryptool.io/media/crypto-com-integration-now-live-cover-1779445045499.jpg",
   "tags": [
     "Integrations",
     "Product"
-  ]
+  ],
+  "cover": "https://amt.cryptool.io/media/crypto-com-integration-now-live-cover-1779445045499.jpg",
+  "featured_image": "https://amt.cryptool.io/media/crypto-com-integration-now-live-cover-1779445045499.jpg"
 }
