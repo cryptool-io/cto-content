@@ -1,0 +1,12 @@
+{
+  "slug": "portfolio-module-ships-next-week",
+  "title": "Portfolio Module ships next week",
+  "date": "2025-12-04T11:42:00.000Z",
+  "content_html": "<p>The Portfolio Module goes live next week, giving every Cryptool user a single, complete view of their investments.</p>\n<p>What ships with it:</p>\n<ul><li>Allocation across assets and categories at a glance</li><li>Status and performance per investment, updated live</li><li>Vesting schedules and the next unlock date for every position</li></ul>\n<p>This is the first step of a wider release. The OTC module, which brings on-platform secondary trading for vested and unvested positions, follows shortly after.</p>",
+  "type": "news",
+  "author": "Cryptool",
+  "excerpt_html": "The Portfolio Module goes live next week, giving every Cryptool user a single, complete view of their investments. What ships with it: - Allocation across ass",
+  "tags": [
+    "Feature"
+  ]
+}
