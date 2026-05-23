@@ -1,0 +1,12 @@
+{
+  "slug": "cryptool-moves-from-test-server-to-mainnet-this-week",
+  "title": "Cryptool moves from test server to mainnet this week",
+  "date": "2025-01-13T15:36:00.000Z",
+  "content_html": "<p>Cryptool is making the move from the test server to mainnet this week.</p>\n<p>Before flipping the switch, the team is running one final round of pressure-testing on the Raise module. Anyone who wants to help can sign up on the test platform and run a small pool deposit with test tokens. Every test deposit helps confirm the system is ready for real traffic at scale.</p>\n<p>All testers from this round, and from every earlier test round, will be rewarded for their time. The full step-by-step is in the testnet documentation on the Cryptool site.</p>",
+  "type": "news",
+  "author": "Cryptool",
+  "excerpt_html": "Cryptool is making the move from the test server to mainnet this week. Before flipping the switch, the team is running one final round of pressure-testing on t",
+  "tags": [
+    "Feature"
+  ]
+}
