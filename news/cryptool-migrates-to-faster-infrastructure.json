@@ -1,0 +1,12 @@
+{
+  "slug": "cryptool-migrates-to-faster-infrastructure",
+  "title": "Cryptool migrates to faster infrastructure",
+  "date": "2025-05-12T16:21:00.000Z",
+  "content_html": "<p>Cryptool is migrating all test, staging and production servers to faster infrastructure with a set of underlying upgrades.</p>\n<p>While the migration is running, you can test the new environment on the public testnet at qa.cryptool.io. Instructions for users, group admins and the testnet itself are in the documentation on cryptool.io.</p>\n<p>This work sets the stage for a noticeable speed and stability improvement across the platform.</p>",
+  "type": "news",
+  "author": "Cryptool",
+  "excerpt_html": "Cryptool is migrating all test, staging and production servers to faster infrastructure with a set of underlying upgrades. While the migration is running, you",
+  "tags": [
+    "General"
+  ]
+}
