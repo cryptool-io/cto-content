@@ -1,12 +1,12 @@
 {
   "type": "news",
   "slug": "crypto-com-integration-now-live",
-  "title": "Crypto.com Exchange integration is now live",
+  "title": "Connect Crypto.com Exchange to Cryptool for Portfolio Tracking & OTC Crypto Trading",
   "date": "2026-05-20T16:30:00Z",
   "updated": "2026-05-20T16:30:00Z",
   "author": "Cryptool",
   "excerpt_html": "<p>Connect a read-only Crypto.com API key to sync your trades automatically into Cryptool.</p>",
-  "content_html": "<p>You can now connect your Crypto.com Exchange account to Cryptool with a read-only API key, syncing trades automatically. See the <a href=\"/documents/crypto-com\">setup guide</a> for step-by-step instructions.</p>",
+  "content_html": "<p>You can now connect your <strong>Crypto.com</strong> institutional account directly to Cryptool and sync your trading activity in real time. This allows you to manage your crypto portfolio from a single dashboard while keeping track of balances, open positions, trading history, asset performance, and overall portfolio growth.</p>\n\n<p>Cryptool provides advanced crypto portfolio tracking tools for Crypto.com users, helping traders monitor profits and losses, analyze market exposure, and simplify digital asset management across multiple cryptocurrencies.</p>\n\n<p>In addition to portfolio management, users can access integrated OTC crypto trading services through the platform. This includes OTC quotation requests for large-volume cryptocurrency trades, personalized pricing for high-value transactions, and instant OTC buy and sell options for fast execution with reduced market slippage.</p>\n\n<p>The platform supports efficient crypto trading workflows for both retail and professional traders looking for portfolio analytics, OTC desk services, instant crypto purchases, and streamlined digital asset trading through Crypto.com integration.</p>",
   "hero_image": "https://amt.cryptool.io/media/compose-dark-colors-using-crypto-com-blue-and-cr-1779915142685.png",
   "tags": [
     "Integrations",
