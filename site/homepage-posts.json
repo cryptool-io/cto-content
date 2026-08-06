@@ -1,0 +1,30 @@
+{
+  "_readme": "Written by AMT (Posts & Content > Homepage). Picks the posts the cryptool.io homepage features, max 6, in display order. References only: the landing build resolves each { kind, slug } against the live post, so titles and images are never copied here. An empty list makes the homepage fall back to the newest posts.",
+  "updated_at": "2026-08-06T09:51:39.490Z",
+  "posts": [
+    {
+      "kind": "news",
+      "slug": "cryptool-launches-announcements-messaging-and-real-time-noti"
+    },
+    {
+      "kind": "blog",
+      "slug": "step-by-step-guide-to-setting-up-multi-wallet-portfolio-trac"
+    },
+    {
+      "kind": "blog",
+      "slug": "manage-locked-allocations-across-wallets"
+    },
+    {
+      "kind": "blog",
+      "slug": "how-crypto-investors-track-portfolios-allocations-and-vestin"
+    },
+    {
+      "kind": "blog",
+      "slug": "crypto-portfolio-tracker-manage-every-wallet-chain-and-platf"
+    },
+    {
+      "kind": "blog",
+      "slug": "crypto-fund-management-in-one-place-dealflow-raises-distribu"
+    }
+  ]
+}
