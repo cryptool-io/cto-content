@@ -1,0 +1,190 @@
+{
+  "_readme": "Written by AMT (Posts & Content > Reviews). Real, published third-party reviews only: every row is quoted verbatim from the source and carries a url to the live review. featured:true picks the homepage selection (max 4).",
+  "updated_at": "2026-08-06T09:54:13.196Z",
+  "sources": [
+    {
+      "id": "trustpilot",
+      "name": "Trustpilot",
+      "color": "#00B67A",
+      "profileUrl": "https://www.trustpilot.com/review/cryptool.io",
+      "writeUrl": "https://www.trustpilot.com/evaluate/cryptool.io"
+    },
+    {
+      "id": "g2",
+      "name": "G2",
+      "color": "#FF492C",
+      "profileUrl": "https://www.g2.com/products/cryptool/reviews",
+      "writeUrl": "https://www.g2.com/products/cryptool/take_survey"
+    },
+    {
+      "id": "capterra",
+      "name": "Capterra",
+      "color": "#FF9D28",
+      "profileUrl": "https://www.capterra.com/p/10045187/Cryptool/",
+      "writeUrl": "https://reviews.capterra.com/products/new/3dceeb4a-8324-4837-9124-115e839fa2ea/?utm_source=vp&utm_campaign=vendor_request",
+      "note": "Also publishes to GetApp and Software Advice"
+    },
+    {
+      "id": "producthunt",
+      "name": "Product Hunt",
+      "color": "#DA552F",
+      "profileUrl": "https://www.producthunt.com/products/cryptool/reviews",
+      "writeUrl": "https://www.producthunt.com/products/cryptool/reviews"
+    },
+    {
+      "id": "saashub",
+      "name": "SaaSHub",
+      "color": "#2563EB",
+      "profileUrl": "https://www.saashub.com/cryptool-io",
+      "writeUrl": "https://www.saashub.com/cryptool-io-reviews/new"
+    },
+    {
+      "id": "alternativeto",
+      "name": "AlternativeTo",
+      "color": "#4C8EDA",
+      "profileUrl": "https://alternativeto.net/software/cryptool-io/",
+      "writeUrl": "https://alternativeto.net/software/cryptool-io/reviews/"
+    },
+    {
+      "id": "f6s",
+      "name": "F6S",
+      "color": "#7C8CF8",
+      "profileUrl": "https://www.f6s.com/software/cryptool-io",
+      "writeUrl": "https://www.f6s.com/software/cryptool-io"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "trustpilot-r-gool-2026-08-05",
+      "featured": true,
+      "source": "trustpilot",
+      "author": "R. Gool",
+      "authorMeta": "Netherlands",
+      "rating": 5,
+      "date": "2026-08-05",
+      "title": "Simple, Reliable, and Easy to Use",
+      "quote": "I've had a very positive experience with Cryptool. The platform is easy to use, even for someone who prefers to keep investing simple. The interface is clean, intuitive, and makes it easy to track my portfolio without unnecessary complexity. I also appreciate how reliable and responsive the platform has been. It provides the essential tools and information I need to make informed investment decisions. Overall, Cryptool has helped me stay organized and confident while managing my investments. I would definitely recommend it to anyone looking for a straightforward and user-friendly investment platform.",
+      "url": "https://www.trustpilot.com/review/cryptool.io"
+    },
+    {
+      "id": "g2-mutasim-b-2026-07-02",
+      "featured": false,
+      "source": "g2",
+      "author": "Mutasim B.",
+      "authorMeta": "Senior Developer",
+      "rating": 5,
+      "date": "2026-07-02",
+      "title": "Game-Changer for Portfolio Management",
+      "quote": "I use Cryptool mainly for portfolio management and to join raise pools for projects with good opportunities. It helps me easily manage my portfolios across different wallets and is a great place to find opportunities thanks to the raise pools. Without Cryptool, managing all my portfolios across different platforms would be hard, as I have invested in hundreds of projects. I appreciate how it consolidates everything on a single platform. The built-in calendar module is a lifesaver, allowing me to see upcoming events for each project I've invested in.",
+      "url": "https://www.g2.com/products/cryptool/reviews"
+    },
+    {
+      "id": "g2-verified-internet-2026-07-29",
+      "featured": false,
+      "source": "g2",
+      "author": "Verified User in Internet",
+      "authorMeta": "Small business",
+      "rating": 5,
+      "date": "2026-07-29",
+      "title": "Cryptool.io Brings Peace of Mind with Automated Vesting and Real-Time Portfolio Tracking",
+      "quote": "Cryptool.io is the ultimate solution for anyone getting lost in a maze of Excel sheets and wallets. This platform brings absolute peace of mind to managing your crypto portfolio and private deals. What makes this tool truly great is how effortlessly it automates complex vesting schedules, cliffs, and token unlocks. The clear calendar allows you to see at a glance exactly when your tokens are released. Furthermore, you can securely connect your own non-custodial wallets, keeping a real-time, cross-chain overview without sacrificing your privacy.",
+      "url": "https://www.g2.com/products/cryptool/reviews"
+    },
+    {
+      "id": "capterra-eline-h-2026-07-11",
+      "featured": false,
+      "source": "capterra",
+      "author": "Eline H.",
+      "authorMeta": "Investor, Investment Management",
+      "rating": 5,
+      "date": "2026-07-11",
+      "title": "Automated web3 investment and fund management",
+      "quote": "Very clean, professional and easy to use. The automation is very high which is the main reason I keep using it.",
+      "url": "https://www.capterra.com/p/10045187/Cryptool/"
+    },
+    {
+      "id": "g2-irfaan-s-2026-07-01",
+      "featured": true,
+      "source": "g2",
+      "author": "Irfaan S.",
+      "authorMeta": "Founder",
+      "rating": 5,
+      "date": "2026-07-01",
+      "title": "Outstanding Support That Makes Investing Feel Safe",
+      "quote": "The communication & support receive from the team. Honestly makes me believe my investments are safe",
+      "url": "https://www.g2.com/products/cryptool/reviews"
+    },
+    {
+      "id": "g2-eline-h-2026-07-11",
+      "featured": false,
+      "source": "g2",
+      "author": "Eline H.",
+      "authorMeta": "Team lead International Implementations (NL)",
+      "rating": 5,
+      "date": "2026-07-11",
+      "title": "Automated Asset & Portfolio Management for Early-Stage Investments",
+      "quote": "Automated Asset and Portfolio management specifically for early stage investments.",
+      "url": "https://www.g2.com/products/cryptool/reviews"
+    },
+    {
+      "id": "g2-verified-engineering-2026-07-22",
+      "featured": false,
+      "source": "g2",
+      "author": "Verified User in Mechanical or Industrial Engineering",
+      "authorMeta": "Small business",
+      "rating": 4.5,
+      "date": "2026-07-22",
+      "title": "Solid, User-Friendly Investment Management Without Spreadsheets",
+      "quote": "I don't need spreadsheets to manage my investments.",
+      "url": "https://www.g2.com/products/cryptool/reviews"
+    },
+    {
+      "id": "capterra-anonymous-2026-07-29",
+      "featured": false,
+      "source": "capterra",
+      "author": "Anonymous User",
+      "authorMeta": "Mechanical engineer, Industrial Automation",
+      "rating": 5,
+      "date": "2026-07-29",
+      "title": "Excellent Tool for Simple and Efficient Investment Management",
+      "quote": "Overall, my experience with CryptoTool has been very positive. The platform is easy to use, keeps my investments well organized, and makes portfolio management much more efficient. It has helped simplify my workflow and provides the information I need in a clear and accessible way.",
+      "url": "https://www.capterra.com/p/10045187/Cryptool/"
+    },
+    {
+      "id": "capterra-jeffrey-v-2026-06-25",
+      "featured": true,
+      "source": "capterra",
+      "author": "Jeffrey V.",
+      "authorMeta": "Engineering manager, Automotive",
+      "rating": 5,
+      "date": "2026-06-25",
+      "title": "Review JvD",
+      "quote": "Overall a good and pleasant experience. Im liking the colour schema and usability. Looking forward to using it more in the future.",
+      "url": "https://www.capterra.com/p/10045187/Cryptool/"
+    },
+    {
+      "id": "producthunt-eline-2026-07-29",
+      "featured": true,
+      "source": "producthunt",
+      "author": "Eline",
+      "authorMeta": "Product Hunt community",
+      "rating": 5,
+      "date": "2026-07-29",
+      "title": "",
+      "quote": "I've been using Cryptool.io for a while to keep track of my crypto portfolio, and it has become one of the tools I use most. It gives me a clear overview of my assets and performance, which helps me make better investment decisions. If you want an easy way to monitor your portfolio without the hassle of spreadsheets, I can definitely recommend it.",
+      "url": "https://www.producthunt.com/products/cryptool/reviews"
+    },
+    {
+      "id": "trustpilot-eline-2026-06-09",
+      "featured": false,
+      "source": "trustpilot",
+      "author": "eline",
+      "authorMeta": "Netherlands",
+      "rating": 5,
+      "date": "2026-06-09",
+      "title": "",
+      "quote": "Great platform for managing my portfolio, and many more!",
+      "url": "https://www.trustpilot.com/review/cryptool.io"
+    }
+  ]
+}
